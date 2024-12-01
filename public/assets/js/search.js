@@ -1,4 +1,4 @@
-    $(document).ready(function () {
+    $(document).(function () {
         $('#contactForm').on('submit', function (e) {
             // Show loading indicator
             $('#loading').show();
